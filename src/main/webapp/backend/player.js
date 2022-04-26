@@ -1,3 +1,5 @@
+import { enemies } from './enemies.js'
+
 export default class Player {
 
     //Constructor for the player and the AI
